@@ -1,0 +1,20 @@
+#porta de escuta do servidor
+portaTK103=3333
+portaMobile=3334
+portaSMS=3335
+portaVT310=3336
+#dados do banco de dados
+user=rastreware
+pass=rJgYdtSEvihX5VU
+base=rastreamento
+server=localhost
+#caches em min
+cache_veiculo=5
+#tempo para verificar bloqueio = 40seg
+delay_bloqueio=40000
+#tempo para verificar envio sms = 10seg
+delay_sms=15000
+titulo_email=Rastreamento - Rastreware
+from_email=crisnelloalerta@gmail.com
+host_email=gmail.com
+fuck_email=crisnelloalerta@123
